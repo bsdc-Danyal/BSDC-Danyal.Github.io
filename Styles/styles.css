@@ -1,10 +1,11 @@
 h1 {
     color: red;
+    position: relative; left: 900px;
 }
 
 html {
     background-color: pink;
-    border: rebeccapurple solid 2px;
+    border: rebeccapurple solid 10px;
     height: 100%;
     background-image: url("/Images/Background.jpg");
     background-size: contain
