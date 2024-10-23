@@ -1,1 +1,0 @@
-# bsdc-Danyal.github.io
