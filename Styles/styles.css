@@ -1,3 +1,17 @@
 h1 {
     color: red;
 }
+
+html {
+    background-color: pink;
+    border: orange solid 2px;
+    height: 100%;
+    background-image: url("/Images/Background.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+body {
+    background-color: green;
+    border: blue solid 2px;
+}
